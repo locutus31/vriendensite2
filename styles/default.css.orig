@@ -3,17 +3,18 @@
     font-family:Verdana;
     font-size:small;
     font-weight:bold;
-<<<<<<< HEAD
 
 }
 h1 {
     color:silver;
 }
+h2 {
+<<<<<<< HEAD
+    color:red;
 h3 {
     color:green;
+}
 =======
+    color:green;
 }
-h2 {
-    color:red;
 >>>>>>> mobilefriendly
-}
